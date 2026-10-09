@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance Predictor",
+  "description": "Smart academic attendance tracking with predictive threshold analysis, what-if class simulator, timetable scheduling, and AI copilot advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer attendance gauge arc (Safe emerald / teal / electric violet) -->
+    <path
+        android:pathData="M 32,54 A 22,22 0 1,1 76,54"
+        android:strokeWidth="4.5"
+        android:strokeColor="#7C3AED"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <path
+        android:pathData="M 32,54 A 22,22 0 0,0 68,73"
+        android:strokeWidth="4.5"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Center Graduation Mortarboard Cap -->
+    <!-- Cap Diamond Top -->
+    <path
+        android:pathData="M 54,34 L 75,44 L 54,54 L 33,44 Z"
+        android:fillColor="#D2BBFF" />
+
+    <!-- Cap Skull Cap Arc -->
+    <path
+        android:pathData="M 40,48.5 L 40,56 C 40,61 68,61 68,56 L 68,48.5"
+        android:fillColor="#7C3AED" />
+
+    <!-- Tassel hanging from center to side -->
+    <path
+        android:pathData="M 54,44 L 34,49 L 34,58"
+        android:strokeColor="#6BD8CB"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M 32,58 L 36,58 L 34,63 Z"
+        android:fillColor="#6BD8CB" />
+
+    <!-- Center Checkmark / Percentage Badge -->
+    <path
+        android:pathData="M 47,56 L 52,61 L 62,51"
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+</vector>
